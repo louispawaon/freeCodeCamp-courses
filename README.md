@@ -4,4 +4,4 @@ Visit my <a href="https://www.freecodecamp.org/louispawaon">freeCodeCamp Profile
 
 **COURSE NAME**|**DATE STARTED**|**DATE ENDED**|**CERTIFICATE**
 :-----:|:-----:|:-----:|:-----:
-JavaScript Algorithms and Data Structures|08/21/2021| | 
+JavaScript Algorithms and Data Structures|08/21/2021|11/22/2021| __<a href="https://www.freecodecamp.org/certification/louispawaon/javascript-algorithms-and-data-structures">Link</a>__
